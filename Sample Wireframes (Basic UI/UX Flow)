@@ -1,0 +1,78 @@
+A. Welcome / Landing Page
+---------------------------------------------------------
+|     UNILINK                                          |
+|  [Login]     [Sign Up]                               |
+|                                                     |
+|  The Secure Decentralized Career Platform           |
+|  [Learn More]                                       |
+---------------------------------------------------------
+
+B. User Registration / Login
+---------------------------------------------------------
+|   [Logo]           [Sign Up / Login]                 |
+|                                                      |
+|   Name: ______                                      |
+|   Email: ______                                     |
+|   Password: ______                                  |
+|   Role: [Student/JobSeeker] [Employer] [Institute]  |
+|   [Sign Up]   [Already have an account? Login]      |
+---------------------------------------------------------
+
+C. Dashboard (after Login)
+---------------------------------------------------------
+|  [Logo]      [Profile]  [Logout]                    |
+---------------------------------------------------------
+| Dashboard                                          |
+| - Profile Status: [Verified/Pending]               |
+| - Credentials Uploaded: [2]                        |
+| - Resume Score: [85/100]                           |
+| - Notifications: [1 credential expiring soon]      |
+---------------------------------------------------------
+| [Upload Credentials] [Generate Resume] [Find Jobs] |
+| [Share Resume (ZKP/QR)]                            |
+---------------------------------------------------------
+
+D. Credential Upload
+---------------------------------------------------------
+|   Upload Credentials                               |
+|   [Choose File]  [Type: Degree/Certificate/Other]  |
+|   [Institute Name] [Date] [Description/Notes]      |
+|   [Upload & Verify on Blockchain]                  |
+---------------------------------------------------------
+|   Uploaded Credentials List:                       |
+|   1. B.Tech Degree - Lovely Professional ...       |
+|   2. AWS Certification ...                         |
+---------------------------------------------------------
+
+E. AI-Powered Resume Preview
+---------------------------------------------------------
+|   Resume Preview                                   |
+|   [Name, Contact Info, Summary]                    |
+|   [Education - verified badges]                    |
+|   [Experience - verified badges]                   |
+|   [Skills - auto-ranked]                           |
+|   [AI Suggestions: Add 'Project XYZ' to improve]   |
+|   [Download PDF]  [Share Link/QR]                  |
+---------------------------------------------------------
+
+F. Job Listings & AI Matching
+---------------------------------------------------------
+|   Job Opportunities                                |
+|   [Search Bar]                                     |
+|   [Sort: AI Match Score | Latest | Location]       |
+---------------------------------------------------------
+|   Job 1: Software Dev at ABC (95% match)           |
+|   Job 2: Analyst at XYZ (80% match)                |
+---------------------------------------------------------
+|   [Apply] [Save]                                   |
+---------------------------------------------------------
+
+G. Credential Sharing (ZKP/QR)
+---------------------------------------------------------
+|  Select what to share:                             |
+|   [x] Degree    [ ] Certification                  |
+|   [x] Skill: Python (Verified)                     |
+|              ...                                   |
+|  [Generate Secure Link / QR Code]                  |
+|  [Copy Link]    [Show QR]                          |
+---------------------------------------------------------
