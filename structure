@@ -1,0 +1,7 @@
+/unilink-project
+    /frontend          # React.js app
+    /backend           # Node.js/Express backend
+    /smart-contracts   # Solidity code for blockchain
+    /ai-engine         # Python scripts (resume parsing, ranking, etc.)
+    /docs              # Wireframes, PRD, instructions
+    README.md
